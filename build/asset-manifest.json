@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.700b340f.css",
+    "main.js": "/static/js/main.2fadcfc1.js",
+    "static/media/8Lez.gif": "/static/media/8Lez.83c0697038be68508e0a.gif",
+    "static/media/1.2.png": "/static/media/1.2.a2df0cfc41bcc0d1289f.png",
+    "static/media/1.4.png": "/static/media/1.4.b7bc2495413f6d8efaff.png",
+    "static/media/letras.png": "/static/media/letras.1756e43d372c7609fb27.png",
+    "static/media/logo.png": "/static/media/logo.f5d522a0be377543f3b9.png",
+    "static/media/1.5.png": "/static/media/1.5.bbebaf75e764ed7475ab.png",
+    "static/media/1.3.png": "/static/media/1.3.98d4d48ef861e534f7aa.png",
+    "static/media/specials-4.png": "/static/media/specials-4.59e1d42f216499fcb5b0.png",
+    "static/media/events-bg.jpg": "/static/media/events-bg.089a5749b06646aedee7.jpg",
+    "static/media/specials-5.png": "/static/media/specials-5.8dc7759e3f0542f882e4.png",
+    "static/media/specials-3.png": "/static/media/specials-3.5cca0df18e5f45daa93f.png",
+    "static/media/specials-2.png": "/static/media/specials-2.510cf1f3e556552e00e6.png",
+    "static/media/hero-bg.jpg": "/static/media/hero-bg.d246ce4007858a2604b4.jpg",
+    "static/media/1.1.png": "/static/media/1.1.7935dab1aaaa096a1d44.png",
+    "static/media/specials-1.png": "/static/media/specials-1.2bd41672df73300c5dab.png",
+    "static/media/404.png": "/static/media/404.f1eb8fb9bb2ca988b058.png",
+    "static/media/about-bg.jpg": "/static/media/about-bg.dfe20f92dd1f652efa8e.jpg",
+    "static/media/facebook.png": "/static/media/facebook.cec4fe226e1f89588ea3.png",
+    "static/media/favicon-256x256.png": "/static/media/favicon-256x256.6d8c47c5a699e65557a5.png",
+    "static/media/username-icon.svg": "/static/media/username-icon.ebe9b1f183d0ea9b24a632907e9ffefb.svg",
+    "static/media/socialemailcircularbutton_80177.svg": "/static/media/socialemailcircularbutton_80177.178fb71af0f6177fc93f00a4e6d75211.svg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/time-cronometer-svgrepo-com.svg": "/static/media/time-cronometer-svgrepo-com.cb4c66cb61c1e612568305990d4b218a.svg",
+    "static/media/password-icon.svg": "/static/media/password-icon.08fe49a0b0826786f49578b48c62ca01.svg",
+    "index.html": "/index.html",
+    "static/media/google-icon.svg": "/static/media/google-icon.9a7800d06783d80a1c12249a8ca58e9d.svg",
+    "static/media/facebook-svgrepo-com.svg": "/static/media/facebook-svgrepo-com.0119c04912db915deedb1f6a94119fe4.svg",
+    "main.700b340f.css.map": "/static/css/main.700b340f.css.map",
+    "main.2fadcfc1.js.map": "/static/js/main.2fadcfc1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.700b340f.css",
+    "static/js/main.2fadcfc1.js"
+  ]
+}

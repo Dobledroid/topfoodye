@@ -1,0 +1,23 @@
+ 
+.icons i,
+.icons a{
+     cursor: pointer;
+     margin-left: 1rem;
+     height: 4.5rem;
+     line-height: 4.5rem;
+     width: 4.5rem;
+     text-align: center;
+     font-size: 1.7rem;
+     color: beige;
+     border-radius: 50%;
+     background-color: black;
+ }
+.icons i:hover,
+.icons a:hover{
+     color: black;
+     background-color: rgb(242, 242, 242);
+     transform: rotate(360deg);
+ }
+icons #menu-bars{
+     display: none;
+ }

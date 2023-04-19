@@ -1,0 +1,106 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: "sitio-web";
+  src:url("fonts/sitio-web.eot");
+  src:url("fonts/sitio-web.eot?#iefix") format("embedded-opentype"),
+    url("fonts/sitio-web.woff") format("woff"),
+    url("fonts/sitio-web.ttf") format("truetype"),
+    url("fonts/sitio-web.svg#sitio-web") format("svg");
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+[data-icon]:before {
+  font-family: "sitio-web" !important;
+  content: attr(data-icon);
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+[class^="icon-"]:before,
+[class*=" icon-"]:before {
+  font-family: "sitio-web" !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-facebook-1:before {
+  content: "\61";
+}
+.icon-whatsapp:before {
+  content: "\62";
+}
+.icon-regresar:before {
+  content: "\63";
+}
+.icon-twitter:before {
+  content: "\64";
+}
+.icon-facebook:before {
+  content: "\65";
+}
+.icon-ubicacion:before {
+  content: "\67";
+}
+.icon-menu:before {
+  content: "\68";
+}
+.icon-telefono:before {
+  content: "\66";
+}
+.icon-password:before {
+  content: "\69";
+}
+.icon-user:before {
+  content: "\6a";
+}
+.icon-correo:before {
+  content: "\6b";
+}
+.icon-avanzar:before {
+  content: "\6c";
+}
+.icon-regresar-2:before {
+  content: "\6d";
+}
+.icon-eliminar:before {
+  content: "\6e";
+}
+.icon-editar:before {
+  content: "\6f";
+}
+.icon-subir:before {
+  content: "\70";
+}
+.icon-regresar-1:before {
+  content: "\71";
+}
+.icon-mas:before {
+  content: "\72";
+}
+.icon-instagram:before {
+  content: "\49";
+}
+.icon-paperplane:before {
+  content: "\4a";
+}
+.icon-clock:before {
+  content: "\73";
+}
+.icon-telephone:before {
+  content: "\74";
+}

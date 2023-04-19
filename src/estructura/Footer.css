@@ -1,0 +1,124 @@
+.pie-pagina {
+  width: 100%;
+  /* position: absolute; */
+  bottom: 0;
+  left: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: #7A0244;
+  /* margin: 0% 0%; */
+  /* padding: 0%; */
+}
+
+.box-img{
+  display: flex;
+  justify-content: center;
+}
+.logoFooter {
+  height: 250px;
+}
+
+.LinksF{
+  text-decoration: none;
+  color: #000;
+}
+
+.pie-pagina .trupo-1 {
+  width: 100%;
+  max-width: 1200px;
+  margin: auto;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  /* grid-gap: 40px; */
+  padding: 10px 0px;
+}
+
+.pie-pagina .trupo-1 .box-menu .h2Fo {
+  color: #fff;
+  font-size: 18px;
+  margin-top: 0%;
+  margin-bottom: 0%;
+}
+.pie-pagina .trupo-1 .box-menu {
+  color: rgb(255, 255, 255);
+}
+.pie-pagina .trupo-1 .red-social #aFo {
+  font-size: 28px;
+  line-height: 45px;
+  color: aliceblue;
+  margin-right: 20px;
+  background-color: black;
+  text-decoration: none;
+}
+
+.pie-pagina .trupo-1 .red-social #aFo:hover {
+  font-size: 30px;
+  color:cornflowerblue; 
+}
+
+.box-menu,
+.container-redes {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-bottom: 1rem;
+}
+/* a {
+  color: #000000;
+} */
+
+.pFo {
+  font-size: 14px;
+  margin: 0% 0%;
+  /* margin-top: 0%; */
+  /* margin-bottom: 0%; */
+}
+
+.container-redes {
+  display: -ms-inline-flexbox;
+  color: rgb(255, 255, 255);
+  font-size: 11px;
+}
+
+.pie-pagina .grupo-2 {
+  width: 100%;
+  background-color: #060505;
+  padding: 15px 0%;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+.pie-pagina .grupo-2 small {
+  font-size: 14px;
+}
+
+@media (max-width: 768px) {
+  /* Estilos para dispositivos móviles */
+  
+
+  .logoFooter{
+    height: 150px;
+  }
+
+  .box-img{
+    display: flex;
+    justify-content: center;
+  }
+
+  .box-menu {
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+  .pie-pagina .trupo-1 {
+    grid-template-columns: 1fr;
+  }
+
+  .trupo-1 {
+    grid-gap: 20px;
+  }
+  .red-social #aFo {
+    margin-right: 10px;
+  }
+}

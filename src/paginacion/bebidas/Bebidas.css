@@ -1,0 +1,49 @@
+
+.titleBebidas{
+  text-align: center;
+  font-size: 40px;
+  color: #6a6a6a;
+  margin-top: 100px;
+  font-family: 'Roboto', sans-serif;
+}
+.containerBebidas{
+  width: auto;
+  max-width: auto;
+  height: auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  overflow: hidden;
+}
+.containerBebidas .cardBebidas{
+  width: 275px;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 2px 2px rgba(0 , 0, 0, 0.2);
+  overflow: hidden;
+  margin: 20px;
+  text-align: center;
+  transition: all 0.25s;
+  float: left;
+}
+.containerBebidas .cardBebidas:hover{
+  transform: translate(-15px);
+  box-shadow: 0 12px 16px rgba(0 , 0, 0, 0.2);
+}
+.containerBebidas .cardBebidas .imgBebidas{
+  width: 290px;
+  height: 180px;
+}
+.containerBebidas .cardBebidas .h4Bebidas{
+  font-weight: 600;
+}
+.containerBebidas .cardBebidas .pBebidas{
+  padding: 0.2rem;
+  font-weight: 400;
+  font-size: 14px;
+}
+.containerBebidas .cardBebidas .aBebidas{
+  font-weight: 500;
+  text-decoration: none;
+  color: #3498db;
+}

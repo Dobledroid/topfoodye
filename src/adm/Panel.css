@@ -1,0 +1,86 @@
+/* Reset de estilos para el documento */
+.todoPanel {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Estilos generales del panel */
+.containerPanel {
+  margin-top: 45px;
+  /* margin-left: 0; */
+  display: flex;
+  height: 100vh;
+}
+
+/* Estilos de la barra lateral */
+.sidebarPanel {
+  /* left: 0%; */
+  width: 300px;
+  background-color: #252525;
+  color: #fff;
+  border: 7px solid #7A0244;
+  padding: 20px;
+}
+
+.profilePanel {
+  text-align: center;
+}
+
+.profile-picturePanel {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
+
+.navPanel .ulPanel {
+  list-style: none;
+}
+
+.navPanel .ulPanel .liPanel {
+  /* margin-left: 0px; */
+  margin-bottom: 10px;
+}
+
+.navPanel .ulPanel .liPanel .aPanel {
+  /* text-align: center; */
+  color: #fff;
+  text-decoration: none;
+  font-size: 1.2rem;
+}
+
+.navPanel ul li a:hover {
+  color: #ffa500;
+}
+
+/* Estilos del contenido principal */
+.main-contentPanel {
+  flex: 1;
+  background-color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+.h1Panel { 
+  font-size: 3rem;
+  margin-bottom: 20px;
+}
+
+.pPanel {
+  font-size: 1.2rem;
+  line-height: 1.5;
+}
+
+.ulPanel {
+  list-style: none;
+}
+
+@media (max-width: 768px) {
+  .containerPanel {
+    margin-top: 22px;
+    /* margin-left: 0; */
+    display: flex;
+    height: 100vh;
+  }
+}

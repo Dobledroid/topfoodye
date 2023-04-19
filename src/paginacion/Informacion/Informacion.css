@@ -1,0 +1,34 @@
+.divInf{
+  margin-top: 20vh;
+}
+  
+
+.tituloInf{
+  text-align: center;
+  font-size:2.0rem;
+  margin: 0% 0%;
+}
+.containerInf{
+  /* margin-top: 100px; */
+  /* margin: 0% 0%; */
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+.centerInf{
+  text-align: center;
+  /* margin: 0% 0% 0% 0%; */
+  /* font-size: 13px; */
+}
+.pInf{
+  text-align: justify;
+  font-size: 13px;
+}
+
+.imgInf{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+
+}
